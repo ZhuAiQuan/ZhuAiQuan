@@ -1,6 +1,4 @@
-# Hi 我是 ZhuAiQuan
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=blue&lines=Hello,+World!;Welcome+to+my+profile!)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=blue&lines=Hi!;I+am+Zhu+Ai+Quan!)
 
 一个默默无闻的纯牛马
 
