@@ -19,7 +19,7 @@
 
 ## 联系方式
 
-- 📫[outlook](hadeszaq@outlook.com)
+- 📫[outlook](mailto:hadeszaq@outlook.com)
 
 ## Github 统计
 
